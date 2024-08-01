@@ -552,4 +552,4 @@ void sensorilerenkdegis(){
       kopukcivcivrengi=beyaz;
       display.fillRect(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT, arkaplanrengi);
     }
-}
+} 
