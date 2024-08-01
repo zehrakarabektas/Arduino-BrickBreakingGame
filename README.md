@@ -5,7 +5,7 @@ The game machine has been created on Wokwi.
 
 You can use the following link to test the game machine: https://wokwi.com/projects/395809465315796993 
 
-**Türkçe Açıklama:**
+**Oyun Hakkında Bilgi:**
 
 Bu projenin amacı, çeşitli araçlar kullanarak mikrodenetleyici tabanlı bir oyun makinesi  geliştirmektir.
 
