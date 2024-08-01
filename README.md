@@ -19,7 +19,7 @@ Oyun makinesi C dili ile yazılmış olup Wokwi'de geliştirilmiştir.
 
 Oyun makinesini denemek için bağlantıyı kullanabilirsiniz:[ https://wokwi.com/projects/395809465315796993](https://wokwi.com/projects/405017537183784961)
 
-**Kodda:**
+**Koddaki değişkenler:**
 
 - **'kopuk' (Tuğla):** Oyuncunun kırması gereken tuğlayı ifade eder.
 
