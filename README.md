@@ -1,4 +1,4 @@
-# Arduino-BrickBreakingGame
+# Arduino-BrickBreakingGame(Tuğla Kırma Oyunu)
 
 The aim of this project is to develop a microcontroller-based brick-breaking game using various tools.
 
