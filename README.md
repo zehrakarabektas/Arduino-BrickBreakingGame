@@ -6,7 +6,7 @@ The game machine has been created on Wokwi.
 
 You can use the following link to test the game machine: [https://wokwi.com/projects/395809465315796993](https://wokwi.com/projects/405017537183784961) 
 
-## PROJEYİ GELİŞTİRENLER
+**Projeyi Geliştirenler**
 
 - [Ceylin ATLI](https://github.com/ceylinatli)
 - [Zehra KARABEKTAŞ](https://github.com/zehrakarabektas)
