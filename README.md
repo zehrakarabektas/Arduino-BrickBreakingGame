@@ -19,7 +19,7 @@ Oyun makinesini denemek için bağlantıyı kullanabilirsiniz:[ https://wokwi.co
 
 **'civciv' (Top):** Etrafında hareket eden ve tuğlalara çarpan topu ifade eder.
 
-**'tahta':** Topu yönlendirmek ve yanmamak için kullanılan platform veya yüzey.Topun hareketini kontrol etmek için kullanılan bir yüzeyi ifade eder.
+**'tahta'(Palet):** Topu yönlendirmek ve yanmamak için kullanılan palet.Topun hareketini kontrol etmek için kullanılan bir paleti ifade eder.
 
 **'kalp':** Oyuncunun canlarını temsil eden simgeler veya nesneler. Bu genellikle oyuncunun oyun içindeki kalan can sayısını ifade eder.
 
