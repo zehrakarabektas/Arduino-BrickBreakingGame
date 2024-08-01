@@ -21,13 +21,13 @@ Oyun makinesini denemek için bağlantıyı kullanabilirsiniz:[ https://wokwi.co
 
 **Kodda:**
 
-**- 'kopuk' (Tuğla):** Oyuncunun kırması gereken tuğlayı ifade eder.
+** - 'kopuk' (Tuğla):** Oyuncunun kırması gereken tuğlayı ifade eder.
 
-**- 'civciv' (Top):** Etrafında hareket eden ve tuğlalara çarpan topu ifade eder.
+** - 'civciv' (Top):** Etrafında hareket eden ve tuğlalara çarpan topu ifade eder.
 
-**- 'tahta'(Palet):** Topu yönlendirmek ve hareketini kontrol etmek için kullanılan bir paleti ifade eder.
+** - 'tahta'(Palet):** Topu yönlendirmek ve hareketini kontrol etmek için kullanılan bir paleti ifade eder.
 
-**- 'kalp':** Oyuncunun canlarını temsil eden simgeler veya nesneler. Bu genellikle oyuncunun oyun içindeki kalan can sayısını ifade eder.
+** - 'kalp':** Oyuncunun canlarını temsil eden simgeler veya nesneler. Bu genellikle oyuncunun oyun içindeki kalan can sayısını ifade eder.
 
 ### A. Devre Tasarımında Kullanılan Araçlar (Simülasyon)
 
