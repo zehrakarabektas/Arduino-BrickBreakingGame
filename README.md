@@ -3,7 +3,7 @@ The aim of this project is to develop a microcontroller-based brick-breaking gam
 
 The game machine has been created on Wokwi. 
 
-You can use the following link to test the game machine: https://wokwi.com/projects/395809465315796993 
+You can use the following link to test the game machine: [https://wokwi.com/projects/395809465315796993](https://wokwi.com/projects/405017537183784961) 
 
 **Oyun Hakkında Bilgi:**
 
@@ -11,7 +11,7 @@ Bu projenin amacı, çeşitli araçlar kullanarak mikrodenetleyici tabanlı bir 
 
 Oyun makinesi C dili ile yazılmış olup Wokwi'de geliştirilmiştir. 
 
-Oyun makinesini denemek için bağlantıyı kullanabilirsiniz: https://wokwi.com/projects/395809465315796993
+Oyun makinesini denemek için bağlantıyı kullanabilirsiniz:[ https://wokwi.com/projects/395809465315796993](https://wokwi.com/projects/405017537183784961)
 
 **Kodda:**
 
