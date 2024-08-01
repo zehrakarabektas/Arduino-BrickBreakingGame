@@ -12,3 +12,12 @@ Oyun makinesi Wokwi üzerinde oluşturulmuştur.
 
 Oyun makinesini denemek için bağlantıyı kullanabilirsiniz: https://wokwi.com/projects/395809465315796993
 
+Kodda:
+'kopuk' (Tuğla): Oyuncunun kırması gereken tuğlayı ifade eder.
+
+'civciv' (Top): Etrafında hareket eden ve tuğlalara çarpan topu ifade eder.
+
+'tahta': Topu yönlendirmek ve yanmamak için kullanılan platform veya yüzey.Topun hareketini kontrol etmek için kullanılan bir yüzeyi ifade eder.
+
+'kalp': Oyuncunun canlarını temsil eden simgeler veya nesneler. Bu genellikle oyuncunun oyun içindeki kalan can sayısını ifade eder.
+
