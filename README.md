@@ -9,7 +9,7 @@ You can use the following link to test the game machine: https://wokwi.com/proje
 
 Bu projenin amacı, çeşitli araçlar kullanarak mikrodenetleyici tabanlı bir oyun makinesi  geliştirmektir.
 
-Oyun makinesi Wokwi üzerinde oluşturulmuştur. 
+Oyun makinesi C dili ile yazılmış olup Wokwi'de geliştirilmiştir. 
 
 Oyun makinesini denemek için bağlantıyı kullanabilirsiniz: https://wokwi.com/projects/395809465315796993
 
